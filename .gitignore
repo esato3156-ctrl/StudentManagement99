@@ -1,0 +1,32 @@
+# === Java 一般 ===
+*.class
+*.log
+hs_err_pid*
+replay_pid*
+
+# === ビルド出力 ===
+build/
+out/
+target/
+
+# === IntelliJ IDEA ===
+.idea/
+*.iml
+
+# === Gradle ===
+.gradle/
+
+# === パッケージファイル（JAR/WARなど）===
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# === BlueJ ===
+*.ctxt
+
+# === J2ME（古いJava携帯開発）===
+.mtj.tmp/
